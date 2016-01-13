@@ -10,6 +10,8 @@ namespace TestingGH
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Testi");
         }
     }
 }
